@@ -18,12 +18,12 @@ This is a simple web app built with Next.js (App Router) that allows users to se
 
 ## 🚀 Live Demo
 
-👉 Coming Soon (Deploy to Vercel and paste the link here)
+👉 https://my-book-search-nu.vercel.app
 
 ## 📂 Run Locally
 
 ```bash
-git clone https://github.com/your-username/book-search.git
+git clone https://github.com/RaisulIslam24/my-book-search.git
 cd book-search
 npm install
 npm run dev
@@ -31,4 +31,4 @@ npm run dev
 
 ## 📦 Deployment
 
-Deployed on [Vercel](https://vercel.com)# my-book-search
+Deployed on [Vercel](https://my-book-search-nu.vercel.app)# my-book-search
